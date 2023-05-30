@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Firebase and Material Design**
 
-- 👨‍💻 All of my projects are available at [here, on GitHub](here, on GitHub)
+- 👨‍💻 All of my projects are available **here, on GitHub**
 
 - 💬 Ask me about **everything you are interested in**
 
